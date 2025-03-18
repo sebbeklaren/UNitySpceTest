@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 994a247482b814e56b6d52d738745948
+timeCreated: 1430067753
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35608
+  packageName: Mothership
+  packageVersion: draft
+  assetPath: Assets/YuliFM-MotherShipA32/Prefab/MotherShip001.prefab
+  uploadId: 61903
